@@ -19,4 +19,4 @@ I completed the visualization of tidal data through vscode. The result displayed
    ```
    
 ## GIF Picture
-- Here are the gif picture when the code running ![tidal_spiral](https://github.com/user-attachments/assets/d70349aa-2969-4594-a6d1-6f1a0ed34efb)
+- Here are the gif picture when the code running for about 2 sec. ![tidal_spiral](https://github.com/user-attachments/assets/d70349aa-2969-4594-a6d1-6f1a0ed34efb)
