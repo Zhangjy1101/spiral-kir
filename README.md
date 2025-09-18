@@ -8,5 +8,15 @@ I completed the visualization of tidal data through vscode. The result displayed
 - pygame
 - numpy
 
+## Setup
+1. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+2. Run the visualization:
+   ```
+   python main.py
+   ```
+   
 ## GIF Picture
 - Here are the gif picture when the code running ![tidal_spiral](https://github.com/user-attachments/assets/d70349aa-2969-4594-a6d1-6f1a0ed34efb)
