@@ -7,5 +7,6 @@ I completed the visualization of tidal data through vscode. The result displayed
 - Python 3.8+
 - pygame
 - numpy
-- 
-Here are the gif picture when the code running ![tidal_spiral](https://github.com/user-attachments/assets/d70349aa-2969-4594-a6d1-6f1a0ed34efb)
+
+## GIF Picture
+- Here are the gif picture when the code running ![tidal_spiral](https://github.com/user-attachments/assets/d70349aa-2969-4594-a6d1-6f1a0ed34efb)
